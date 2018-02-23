@@ -28,11 +28,7 @@ header.startup h1 {
 header.startup h4 {
 	font-size: 1.5rem;
 }
-.btn {
-	display: block;
-	text-align: center;
-}
-	
+
 .btn {
 	font-weight: 700;
 	text-transform: uppercase;
@@ -55,3 +51,8 @@ header.startup h4 {
  	border-width: 5px;
  	cursor: pointer;
  }
+.btn {
+	display: block;
+	text-align: center;
+}
+	
