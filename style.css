@@ -29,6 +29,9 @@ header.startup h4 {
 	font-size: 1.5rem;
 }
 
+.center-btn { 
+	text-align: center 
+}
 .btn {
 	font-weight: 700;
 	text-transform: uppercase;
@@ -52,4 +55,4 @@ header.startup h4 {
  	cursor: pointer;
  }
 
-.center-btn { text-align: center }
+
